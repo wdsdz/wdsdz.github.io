@@ -30,4 +30,6 @@ During the summer of 2025, I was a visiting student at Stanford University, wher
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/contact.md %}
