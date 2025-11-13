@@ -1,5 +1,5 @@
 # Basic Information 
-title: Guanyao Mao
+title: Song Chen
 position: 4th Undergraduate
 affiliation: Fudan Univerisity
 subaffiliation: MIT 
@@ -10,9 +10,7 @@ email: adiontenasagna@gmail.com
 email2: 22307130309@fudan.edu
 address: 220 Handan Road, Yangpu District, Shanghai, 200433
 
-description: I am an undergraduate at Fudan Univeristy and I am adviced by Prof.Hao Zhang. I work with the Computational Design and Fabrication Groupa at MIT CSAIL, I am supervised by Prof.Wojciech Matusik.
-During 2025 summer, I went to Stanford as an visiting students.
-
+description: I am an undergraduate student at Fudan University, advised by Prof. Hao Zhang. Currently, I work with the Computational Design and Fabrication Group (CDFG) at MIT CSAIL, under the supervision of Prof. Wojciech Matusik.During the summer of 2025, I was a visiting student at Stanford University, where I deepened my research experience in machine learning and computational modeling.My research focuses on AI for Science, particularly on developing large language models (LLMs) capable of autonomous scientific reasoning and discovery.I aim to build systems that go beyond being “a Google that can speak,” evolving into intelligent agents that can truly understand, reason, and uncover new scientific principles.Ultimately, I hope to explore how AI can assist in formulating, verifying, and refining scientific axioms, bridging the gap between data-driven intelligence and human scientific insight.
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
 
