@@ -8,36 +8,27 @@ layout: homepage
 
 <!-- I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). -->
 
-My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am an undergraduate student at [Fudan University](https://www.fudan.edu.cn/), advised by [Prof. Hao Zhang](https://optics.fudan.edu.cn/2a/11/c39771a469521/page.htm).
+Currently, I work with the Computational Design and Fabrication Group [(CDFG)](https://cdfg.csail.mit.edu) at [MIT CSAIL](https://www.csail.mit.edu/), under the supervision of Prof. [Wojciech Matusik.](https://cdfg.csail.mit.edu/wojciech)
+During the summer of 2025, I was a visiting student at Stanford University, where I deepened my knowledge in machine learning and computational modeling.
 
 ## Research Interest
+- **AI for Science:** Integrating artificial intelligence with physics and materials science to enable autonomous scientific discovery.  
+- **Large Language Models (LLMs):** Scientific reasoning, domain-specific fine-tuning, and multi-agent collaboration for theorem generation and experimental design.  
+- **Axiom-based Reasoning Systems:** Developing the *AutoAxiom* and *AxiomEngine* frameworks to formalize, verify, and simulate machine-generated scientific principles.  
+- **Crystal Graph Neural Networks:** High-precision structure–property mapping, multi-domain bandgap prediction, and universal atomic embeddings (ct-UAE).  
+- **Material Informatics:** Dataset curation, data cleaning automation, and synthesis pathway prediction for perovskite and thermoelectric materials.  
+- **Physics-driven Simulation:** Closed-loop validation of AI hypotheses through numerical solvers, queueing dynamics, and physical PDE systems.  
+- **Human–AI Co-evolution:** Exploring frameworks where AI agents learn, refine, and evolve knowledge analogously to human scientific progress.
 
-- **Multi-physics Simulation:** Io-Matter Simulation(SRIM, SDTrimSP, RustBCA), Micromagnetic Simulation (MuMax3, OOMMF)
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Voltage Controlled Magnetism** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+## Honors and Awards
+- **Huatai Securities Science and Technology Scholarship (First Prize)** — Awarded to **top1%** students with exceptional achievements in scientific research and innovation.  
+- **Puyuan Talent Scholarship (Second Prize)** — Recognized for outstanding academic performance and interdisciplinary research potential. **Top 6 Students** of nearly 600 students in my instituition. 
+- **Silver Prize**, *National College Students “Internet Plus” Innovation and Entrepreneurship Competition*, Shanghai Division, 2024  
+- **Top10 Students Award**, *School of Information Science and Engineering*, Fudan University — For academic excellence and community contribution.  
+- **Outstanding Student Cadre**, Fudan University, 2023 — Recognition of leadership and service in student organizations.  
+- **H Prize**, *Mathematical Contest in Modeling (MCM)*, 2024
 
-## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
-
-## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
-
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
-
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 {% include_relative _includes/publications.md %}
 
