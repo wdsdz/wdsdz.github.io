@@ -1,19 +1,30 @@
 main:
 
-  - title: Effect of Helium Ion Irradiation on Spin and Magnetic Properties of Ta/CoFeB Structures
+  - title: Thermoelectric Property Transport Calculations of Three-Dimensional Topological Material Te
     authors: Guanyao Mao
     project_short: Research project
-    project: This research investigates he effects of Helium ion irradiation on the spin and magnetic properties of Ta/CoFeB structures. The samples of Ta/CoFeB with different thicknesses of the Ta layer are deposited and annealed for PMA and then irradiated by different doses. The different thicknesses of Ta lead to different properties in microscopic, and the dose-dependent effects can show the effects of the He ion irradiation.
+    project: "This project focuses on bulk tellurium materials with triangular lattice van der Waals molecular chain structures, calculating the electrical and mechanical physical properties of three-dimensional bulk tellurium, and exploring its potential applications in the field of thermoelectric conversion."
     pdf: 
     web: 
     image: https://blog.songchen.science/images/plasma.jpg
-    notes: Responsible for the design and implementation of the experiment, and BCA simulations.
+    notes: 
 
-  - title: I-V Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to aplly the bias voltage and measure the current. Futher features such as I-V, V-I switching toggle, and Cyclic Voltammetry (CV) will be also included. 
+  - title: Application of Large Language Model-Based Agents in Perovskite and Thermoelectric Material Research
+    authors: Guanyao Mao, Yuqian Zhang, Yun Wang
+    project_short: Research Project
+    project: "This project is based on large language model (LLM) technology and focuses on automated knowledge extraction from open-source perovskite scientific literature and related material property data to build a perovskite intelligent agent."
     pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
     web:
     image: 
     notes:
+
+  - title: "Concentrated Photovoltaic-Thermal Hybrid Solar Cell"
+    authors: Guanyao Mao, Yuqian Zhang, Yun Wang
+    project_short: Products and Patent
+    project: "This project is based on large language model (LLM) technology and focuses on automated knowledge extraction from open-source perovskite scientific literature and related material property data to build a perovskite intelligent agent."
+    pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web:
+    image: 
+    notes:
+
+    
