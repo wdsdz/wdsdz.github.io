@@ -15,10 +15,10 @@ main:
     authors:  <strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik
     conference_short: 
     conference: ICLR 2026 Under Review
-    pdf: ./assets/files/multi.pdf
+    pdf: 
     page:
     bibtex: 
-    image: ./assets/files/multi.jpg
+    image: 
     citation: 
     notes: 
 
@@ -26,10 +26,10 @@ main:
     authors: Zijian Du, Luozhijie Jin, <strong>Guanyao Mao</strong>, Hongyu Chen, Yan Cen, Yongfeng Mei, Hao Zhang
     conference_short: 
     conference: Arxiv
-    pdf: ./assets/files/multi.pdf
+    pdf: 
     page:
     bibtex: 
-    image: ./assets/files/multi.jpg
+    image: 
     citation: 
     notes: 
 
