@@ -1,8 +1,30 @@
 main:
   - title: "VQCrystal: Leveraging Vector Quantization on Large-scale Discovery of Crystal Structures across Dimensionalities" 
-    authors: "ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, Guanyao Mao, Yan Cen, Siqi Sun, Yongfeng Mei, Hao Zhang"
+    authors: "ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, <strong>Guanyao Mao</strong>, Yan Cen, Siqi Sun, Yongfeng Mei, Hao Zhng"
     conference_short: 
-    conference: Sensors and Actuators B Chemical
+    conference: NPJ Computational Materials, 2024
+    pdf: 
+    page:
+    bibtex: 
+    image:
+    citation: 
+    notes:
+
+  - title: "AutoAxiom: Automated Axiom Modification for Scientific Discovery with LLMs" 
+    authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
+    conference_short: 
+    conference: ICLR 2026 Submitted
+    pdf: 
+    page:
+    bibtex: 
+    image:
+    citation: 
+    notes:
+
+  - title: "CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction"
+    authors: "Zijian Du, Luozhijie Jin, <strong>Guanyao Mao</strong>, Hongyu Chen, Yan Cen, Yongfeng Mei, Hao Zhang"
+    conference_short: 
+    conference: Arxiv
     pdf: 
     page:
     bibtex: 
