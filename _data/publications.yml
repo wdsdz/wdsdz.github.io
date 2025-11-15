@@ -1,5 +1,5 @@
 main:
-  - title: VQCrystal: Leveraging Vector Quantization on Large-scale Discovery of Crystal Structures across Dimensionalities 
+  - title: "VQCrystal: Leveraging Vector Quantization on Large-scale Discovery of Crystal Structures across Dimensionalities" 
     authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
     conference_short: 
     conference: Sensors and Actuators B Chemical
