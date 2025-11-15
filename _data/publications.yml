@@ -3,10 +3,10 @@ main:
     authors: "ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, <strong>Guanyao Mao</strong>, Yan Cen, Siqi Sun, Yongfeng Mei, Hao Zhng"
     conference_short: 
     conference: NPJ Computational Materials, 2024
-    pdf: 
+    pdf: /assets/files/multi.pdf
     page:
     bibtex: 
-    image:
+    image: ./assets/files/multi.jpg
     citation: 
     notes:
 
@@ -14,10 +14,10 @@ main:
     authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
     conference: ICLR 2026 Submitted
-    pdf: 
+    pdf: /assets/files/multi.pdf
     page:
     bibtex: 
-    image:
+    image: ./assets/files/multi.jpg
     citation: 
     notes:
 
@@ -25,9 +25,9 @@ main:
     authors: "Zijian Du, Luozhijie Jin, <strong>Guanyao Mao</strong>, Hongyu Chen, Yan Cen, Yongfeng Mei, Hao Zhang"
     conference_short: 
     conference: Arxiv
-    pdf: 
+    pdf: /assets/files/multi.pdf
     page:
     bibtex: 
-    image:
+    image: ./assets/files/multi.jpg
     citation: 
     notes:
