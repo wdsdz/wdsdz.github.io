@@ -1,14 +1,11 @@
 main:
-
-  - title: VQCrystal: Leveraging Vector Quantization on Large-scale Discovery of Crystal Structures across Dimensionalities
-    authors: ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, <strong>Guanyao Mao</strong>, Yan Cen, Siqi Sun, Yongfeng Mei, Hao Zhang
+  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
+    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
     conference_short: 
-    conference: NPJ Computational Materials, 2024
-    pdf: ./assets/files/multi.pdf
+    conference: Sensors and Actuators B Chemical
+    pdf: 
     page:
     bibtex: 
-    image: ./assets/files/multi.jpg
+    image:
     citation: 
-    notes: 
-
-
+    notes:
