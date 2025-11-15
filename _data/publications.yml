@@ -1,8 +1,13 @@
 main:
 
-  - title: VQCrystal: Leveraging Vector Quantization on Large-scale Discovery of Crystal Structures across Dimensionalities (Under Review, ICLR 2026.) 
+  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
     authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    Journal: Sensors and Actuators B Chemical
+    conference_short: 
+    conference: Sensors and Actuators B Chemical
     pdf: ./assets/files/multi.pdf
+    page:
+    bibtex: 
     image: ./assets/files/multi.jpg
+    citation: 
+    notes: 
 
