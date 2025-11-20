@@ -22,17 +22,7 @@ main:
     authors: Guanyao Mao, Yuqian Zhang, Ruixiao Lian, Hao Zhang
     project_short: Products and Patent
     project: "This project utilizes Fresnel lenses and magnesium-based thermoelectric materials to achieve all-angle utilization of solar energy."
-    pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
-    web:
-    image: 
-    notes:
-
-    
-  - title: "AxiomIR: Domain Specific Language for LLM and Machine-based Verification"
-    authors: Guanyao Mao
-    project_short: To be Submitted
-    project: "This project utilizes Fresnel lenses and magnesium-based thermoelectric materials to achieve all-angle utilization of solar energy."
-    pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    pdf: 
     web:
     image: 
     notes:
