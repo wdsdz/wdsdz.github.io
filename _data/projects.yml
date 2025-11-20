@@ -11,7 +11,7 @@ main:
 
   - title: Application of Large Language Model-Based Agents in Perovskite and Thermoelectric Material Research
     authors: Guanyao Mao, Yuqian Zhang, Yun Wang
-    project_short: Research Project
+    project_short: Research Project and to be submitted
     project: "This project is based on large language model (LLM) technology and focuses on automated knowledge extraction from open-source perovskite scientific literature and related material property data to build a perovskite intelligent agent."
     pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
     web:
@@ -19,7 +19,7 @@ main:
     notes:
 
   - title: "Concentrated Photovoltaic-Thermal Hybrid Solar Cell"
-    authors: Guanyao Mao, Yuqian Zhang, Yun Wang
+    authors: Guanyao Mao, Yuqian Zhang, Ruixiao Lian, Hao Zhang
     project_short: Products and Patent
     project: "This project utilizes Fresnel lenses and magnesium-based thermoelectric materials to achieve all-angle utilization of solar energy."
     pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
@@ -28,3 +28,11 @@ main:
     notes:
 
     
+  - title: "AxiomIR: Domain Specific Language for LLM and Machine-based Verification"
+    authors: Guanyao Mao
+    project_short: To be Submitted
+    project: "This project utilizes Fresnel lenses and magnesium-based thermoelectric materials to achieve all-angle utilization of solar energy."
+    pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web:
+    image: 
+    notes:
