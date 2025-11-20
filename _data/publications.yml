@@ -6,7 +6,7 @@ main:
     pdf: /assets/files/VQCrystal.pdf
     page:
     bibtex: 
-    image: ./assets/files/VQCrytal.png
+    image: ./assets/files/VQCrytal.jpg
     citation: 
     notes:
 
@@ -14,7 +14,7 @@ main:
     authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
     conference: To be submitted ICML2026
-    pdf: /assets/files/19366_AutoAxiom_Automated_Axio.pdf
+    pdf: /assets/files/19366_AutoAxiom_Automated_Axio.jpg
     page:
     bibtex: 
     image: ./assets/files/AutoAxiom.png
@@ -28,6 +28,6 @@ main:
     pdf: /assets/files/CTGNNv1.pdf
     page:
     bibtex: 
-    image: ./assets/files/CTGNN.png
+    image: ./assets/files/CTGNN.jpg
     citation: 
     notes:
