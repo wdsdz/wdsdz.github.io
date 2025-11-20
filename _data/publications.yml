@@ -3,10 +3,10 @@ main:
     authors: "ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, <strong>Guanyao Mao</strong>, Yan Cen, Siqi Sun, Yongfeng Mei, Hao Zhng"
     conference_short: 
     conference: NPJ Computational Materials, 2024
-    pdf: /assets/files/multi.pdf
+    pdf: /assets/files/VQCrystal.pdf
     page:
     bibtex: 
-    image: ./assets/files/multi.jpg
+    image: ./assets/files/VQCrytal.jpg
     citation: 
     notes:
 
@@ -14,10 +14,10 @@ main:
     authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
     conference: To be submitted ICML2026
-    pdf: /assets/files/multi.pdf
+    pdf: /assets/files/19366_AutoAxiom_Automated_Axio.pdf
     page:
     bibtex: 
-    image: ./assets/files/multi.jpg
+    image: ./assets/files/AutoAxiom.jpg
     citation: 
     notes:
 
@@ -25,9 +25,9 @@ main:
     authors: "Zijian Du, Luozhijie Jin, <strong>Guanyao Mao</strong>, Hongyu Chen, Yan Cen, Yongfeng Mei, Hao Zhang"
     conference_short: 
     conference: Arxiv
-    pdf: /assets/files/multi.pdf
+    pdf: /assets/files/CTGNNv1.pdf
     page:
     bibtex: 
-    image: ./assets/files/multi.jpg
+    image: ./assets/files/CTGNN.jpg
     citation: 
     notes:
