@@ -1,5 +1,5 @@
 main:
-  - title: "VQCrystal: Leveraging Vector Quantization on Large-scale Discovery of Crystal Structures across Dimensionalities" 
+  - title: "Massive discovery of crystal structures across dimensionalities by leveraging vector quantization"
     authors: "ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, <strong>Guanyao Mao</strong>, Yan Cen, Siqi Sun, Yongfeng Mei, Hao Zhng"
     conference_short: 
     conference: NPJ Computational Materials, 2024
@@ -13,7 +13,7 @@ main:
   - title: "AutoAxiom: Automated Axiom Modification for Scientific Discovery with LLMs" 
     authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
-    conference: ICLR 2026 Submitted
+    conference: To be submitted ICML2026
     pdf: /assets/files/multi.pdf
     page:
     bibtex: 
