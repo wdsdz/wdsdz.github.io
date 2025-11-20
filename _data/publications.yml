@@ -6,7 +6,7 @@ main:
     pdf: /assets/files/VQCrystal.pdf
     page:
     bibtex: 
-    image: ./assets/files/VQCrytal.jpg
+    image: ./assets/files/VQCrytal.png
     citation: 
     notes:
 
@@ -17,7 +17,7 @@ main:
     pdf: /assets/files/19366_AutoAxiom_Automated_Axio.pdf
     page:
     bibtex: 
-    image: ./assets/files/AutoAxiom.jpg
+    image: ./assets/files/AutoAxiom.png
     citation: 
     notes:
 
@@ -28,6 +28,6 @@ main:
     pdf: /assets/files/CTGNNv1.pdf
     page:
     bibtex: 
-    image: ./assets/files/CTGNN.jpg
+    image: ./assets/files/CTGNN.png
     citation: 
     notes:
