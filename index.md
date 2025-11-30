@@ -21,8 +21,8 @@ During the summer of 2025, I was a visiting student at Stanford University, wher
 
 ## Honors and Awards
 - **Huatai Securities Science and Technology Scholarship (First Prize)** — Awarded to **top1%** students with exceptional achievements in scientific research and innovation.  
-- **Puyuan Talent Scholarship (Second Prize)** — Recognized for outstanding academic performance and interdisciplinary research potential. **Top 6 Students** of nearly 600 students in my instituition. 
-- **Silver Prize**, *National College Students “Internet Plus” Innovation and Entrepreneurship Competition*, Shanghai Division, 2024  
+- **Puyuan Talent Scholarship (Second Prize)** — Recognized for outstanding academic performance and interdisciplinary research potential. **6 Students** of nearly 600 students in my instituition. 
+- **Silver Prize**, *National College Students “Internet Plus” Innovation and Entrepreneurship Competition*, Shanghai Division, 2025  
 - **Top10 Students Award**, *School of Information Science and Engineering*, Fudan University — For academic excellence and community contribution.  
 - **Outstanding Student Cadre**, Fudan University, 2023 — Recognition of leadership and service in student organizations.  
 - **H Prize**, *Mathematical Contest in Modeling (MCM)*, 2024
