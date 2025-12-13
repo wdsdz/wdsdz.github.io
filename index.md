@@ -31,11 +31,6 @@ My research is dedicated to generalizing the principles of autonomous mechanism 
 - **H Prize**, *Mathematical Contest in Modeling (MCM)*, 2024
 
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/projects.md %}
-
-
 ## Know more about Me
 
 Outside the lab and lecture halls, I'm all about pushing limits and finding balance through sports and music.
@@ -48,6 +43,9 @@ Growing up in Yunnan gave me an appreciation for nature, good food (especially s
 
 I'm always up for a run, a tennis match, or just grabbing coffee to chat about life, sports, or random ideas. Feel free to reach out!
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/contact.md %}
 
