@@ -32,16 +32,7 @@ My research is dedicated to generalizing the principles of autonomous mechanism 
 
 
 ## Know more about Me
-
-Outside the lab and lecture halls, I'm all about pushing limits and finding balance through sports and music.
-
-I'm a nationally certified Class 2 half-marathon runner (pb: 34:40 for 10KM and 16:50 for 5Km) — running has taught me discipline, patience, and how to stay calm when things get tough (much like debugging code at 3 AM, opps). On weekends, you'll probably find me on the tennis court, where I've learned that the best comebacks happen one point at a time.( I love Carlos Alcaraz! I also play table tennis and my favorite is Fan Zhendong)
-
-When I need to unwind, I sit behind a drum kit. There's something incredibly satisfying about turning rhythm and energy into sound — it's my way of recharging after long days of thinking about simulations and models. As Neil Peart once said, 'If you've got a problem, take it out on a drum.'
-
-Growing up in Yunnan gave me an appreciation for nature, good food (especially spicy rice noodles, I will treat you once you come to my hometown), and staying grounded no matter where life takes me.
-
-I'm always up for a run, a tennis match, or just grabbing coffee to chat about life, sports, or random ideas. Feel free to reach out!
+- Outside the lab and lecture halls, I'm all about pushing limits and finding balance through sports and music. I'm a nationally certified Class 2 half-marathon runner (pb: 34:40 for 10KM and 16:50 for 5Km) — running has taught me discipline, patience, and how to stay calm when things get tough (much like debugging code at 3 AM, opps). On weekends, you'll probably find me on the tennis court, where I've learned that the best comebacks happen one point at a time.( I love Carlos Alcaraz! I also play table tennis and my favorite is Fan Zhendong). When I need to unwind, I sit behind a drum kit. There's something incredibly satisfying about turning rhythm and energy into sound — it's my way of recharging after long days of thinking about simulations and models. As Neil Peart once said, 'If you've got a problem, take it out on a drum.'Growing up in Yunnan gave me an appreciation for nature, good food (especially spicy rice noodles, I will treat you once you come to my hometown), and staying grounded no matter where life takes me. I'm always up for a run, a tennis match, or just grabbing coffee to chat about life, sports, or random ideas. Feel free to reach out!
 
 {% include_relative _includes/publications.md %}
 
