@@ -35,7 +35,6 @@ My research is dedicated to generalizing the principles of autonomous mechanism 
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/contact.md %}
 
 ## Know more about Me
 
@@ -48,3 +47,8 @@ When I need to unwind, I sit behind a drum kit. There's something incredibly sat
 Growing up in Yunnan gave me an appreciation for nature, good food (especially spicy rice noodles, I will treat you once you come to my hometown), and staying grounded no matter where life takes me.
 
 I'm always up for a run, a tennis match, or just grabbing coffee to chat about life, sports, or random ideas. Feel free to reach out!
+
+
+{% include_relative _includes/contact.md %}
+
+
