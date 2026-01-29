@@ -24,7 +24,7 @@ main:
   - title: "CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction"
     authors: "Zijian Du, Luozhijie Jin, <strong>Guanyao Mao</strong>, Hongyu Chen, Yan Cen, Yongfeng Mei, Hao Zhang"
     conference_short: 
-    conference: Arxiv
+    conference: Preprint
     pdf: /assets/files/CTGNNv1.pdf
     page:
     bibtex: 
