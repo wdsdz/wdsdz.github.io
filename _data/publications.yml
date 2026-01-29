@@ -13,7 +13,7 @@ main:
   - title: "AutoAxiom: Automated Axiom Modification for Scientific Discovery with LLMs" 
     authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
-    conference: To be submitted ICML2026
+    conference: Undereview ICML2026
     pdf: /assets/files/ICML2026_AutoAxiom.pdf
     page:
     bibtex: 
