@@ -14,7 +14,7 @@ main:
     authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
     conference: Undereview ICML2026
-    pdf: /assets/files/ICML2026_AutoAxiom.pdf
+    pdf: /assets/files/ICML2026_AutoAxiom (3).pdf
     page:
     bibtex: 
     image: ./assets/files/AutoAxiom.png
