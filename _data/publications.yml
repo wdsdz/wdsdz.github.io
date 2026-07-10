@@ -10,10 +10,10 @@ main:
     citation: 
     notes:
 
-  - title: "AutoAxiom: Automated Axiom Modification for Scientific Discovery with LLMs" 
-    authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Minghao Guo, Benjamin Tod Jones, Wojciech Matusik"
+  - title: "Beyond Parameter Optimization: Axiom-Level Search with Machine-Checkable Physical Constraints" 
+    authors: "<strong>Guanyao Mao</strong>, Zhiyang Dou, Benjamin Tod Jones, Wojciech Matusik"
     conference_short: 
-    conference: Undereview ICML2026
+    conference: Undereview NeurIPS2026
     pdf: /assets/files/ICML2026_AutoAxiom (3).pdf
     page:
     bibtex: 
